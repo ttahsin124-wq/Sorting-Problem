@@ -8,7 +8,7 @@ A personal collection of LeetCode solutions — synced, timed, and benchmarked a
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![LeetSync](https://img.shields.io/badge/synced%20with-LeetSync-6e56cf)](https://github.com/)
-[![Language](https://img.shields.io/badge/language-Multiple-orange)]()
+[![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)]()
 [![Status](https://img.shields.io/badge/status-actively%20solving-brightgreen)]()
 
 </div>
@@ -55,6 +55,7 @@ Think of it as a running diary of my journey through arrays, sorting, searching,
 
 ## 🛠️ Tech & Tools
 
+- **C++** — every single solution in this repo is written in C++
 - **LeetCode** — where the problems live
 - **LeetSync** — auto-syncs accepted submissions to this repo
 - **Git & GitHub** — version control and history tracking
@@ -65,6 +66,7 @@ Think of it as a running diary of my journey through arrays, sorting, searching,
 
 - 🗂️ **Folders:** growing collection of solved problems
 - ⚡ **Focus areas:** sorting, arrays, searching, and general problem-solving
+- 💻 **Language:** 100% C++
 - 🔄 **Sync:** fully automated on every accepted submission
 
 ---
